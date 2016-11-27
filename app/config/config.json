@@ -2,14 +2,14 @@
 	"dbURI": "mongodb://chatapp:chatapp@ds111788.mlab.com:11788/chatapp",
 	"sessionSecret": "123456",
 	"facebook": {
-		"clientID": "<AppID>",
-		"clientSecret": "<AppSecret>",
+		"clientID": "1789210421339260",
+		"clientSecret": "0853e8321bf535d983c7693da85d3e64",
 		"callbackURL": "/auth/facebook/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
 	"twitter": {
-		"consumerKey": "<ConsumerKey>",
-		"consumerSecret": "<ConsumerSecret>",
+		"consumerKey": "B9XG6ZgGU93sVYOI9hXk1SuLM",
+		"consumerSecret": "9K4sXYE4sH9HT8Z78ACbM3v5ZNgt4R1EV1kRnQ0mVev4MzMz6R",
 		"callbackURL": "/auth/twitter/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
