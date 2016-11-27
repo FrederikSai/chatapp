@@ -1,6 +1,6 @@
 {
-	"dbURI": "<MongoDBURI>",
-	"sessionSecret": "<RandomString>",
+	"dbURI": "mongodb://chatapp:chatapp@ds111788.mlab.com:11788/chatapp",
+	"sessionSecret": "123456",
 	"facebook": {
 		"clientID": "<AppID>",
 		"clientSecret": "<AppSecret>",
